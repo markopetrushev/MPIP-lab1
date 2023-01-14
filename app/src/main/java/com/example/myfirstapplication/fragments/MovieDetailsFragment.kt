@@ -9,6 +9,7 @@ import android.widget.ArrayAdapter
 import android.widget.Button
 import android.widget.ListView
 import android.widget.TextView
+import androidx.navigation.Navigation.findNavController
 import com.example.myfirstapplication.R
 import com.example.myfirstapplication.model.MovieCs
 
